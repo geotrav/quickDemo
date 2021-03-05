@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 #Macbookusers
-.DS_Store
+.DS_Sto
 
 # Distribution / packaging
 .Python
